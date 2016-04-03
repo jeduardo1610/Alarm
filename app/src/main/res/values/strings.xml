@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="hint">Scheduling repeating alarm using alarm manager</string>
+</resources>
